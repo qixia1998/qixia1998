@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github
 
 <!--
 **qixia1998/qixia1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This is my Technology stack😄
+* Python Golang Rust...
+* Data Structures and Algorithms
+* Data Science
+* Machine Learning or Deep Learning
+* Front-end
+* ...
+<br/>
+<b>I love Computer Science and Programming</b>
