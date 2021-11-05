@@ -23,3 +23,8 @@ This is my Technology stack😄
 * ...
 <br/>
 <b>I love Computer Science and Programming</b>
+
+
+> Sometimes I like to read some technical books.
+> Sometimes I like to travel.
+> ...
