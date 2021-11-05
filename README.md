@@ -25,6 +25,6 @@ This is my Technology stack😄
 <b>I love Computer Science and Programming</b>
 
 
-> Sometimes I like to read some technical books.
+> Sometimes I like to read some technical books.<br/>
 > Sometimes I like to travel.
 > ...
