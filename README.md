@@ -18,7 +18,6 @@ This is my Technology stack😄
 * Python Golang Rust...
 * Data Structures and Algorithms
 * Data Science
-* Front-end
 * IOS Programming Beginners
 * ...
 <br/>
