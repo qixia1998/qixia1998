@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is my Technology stack😄
+* I'm a Full stack engineer.
 * Python Golang Rust...
 * Data Structures and Algorithms
 * Data Science
