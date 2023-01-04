@@ -38,7 +38,7 @@
 </h2>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=qixia1998&show_icons=true&title_color=fff123&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="JiaXin's Public Github Status">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=qixia1998&show_icons=true&title_color=fff123&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="JiaXin's Public Github">
 </p>  
 
 <br/>
