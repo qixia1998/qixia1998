@@ -30,3 +30,13 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) 
+
+<br/>
+
+<h2 align="center">
+    My contributions to open-source:
+</h2>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=qixia1998&show_icons=true&title_color=fff123&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="JiaXin's Public Github">
+</p>  
