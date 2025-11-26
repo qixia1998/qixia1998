@@ -17,7 +17,7 @@
 <h2 align="center">⚡ Immersive Tech Stack Universe</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,python,c,linux,docker,kubernetes,redis,mysql,postgres,nginx,git,github,gitlab,graphql,rabbitmq,aws,gcp,bash,django,flask,linkedin,md&perline=12" />
+  <img src="https://skillicons.dev/icons?i=go,java,python,c,linux,docker,kubernetes,redis,mysql,postgres,nginx,git,github,gitlab,graphql,rabbitmq,aws,gcp,bash,django,flask,linkedin,md,rust&perline=12" />
 </p>
 
 ---
