@@ -3,7 +3,7 @@
 <!-- ======================================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2600&pause=800&color=00F3FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B,+I'm+JiaXin+Yang;Fullstack+Developer+%7C+Go+Engineer;Cloud-Native+%7C+Distributed+Systems+Builder;Crafting+High-Performance+Infra">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2600&pause=800&color=00F3FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B,+I'm+JiaXin+Yang;Fullstack+Developer+%7C+Go+Engineer">
 </p>
 
 
@@ -17,7 +17,7 @@
 <h2 align="center">⚡ Immersive Tech Stack Universe</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,python,c,linux,docker,kubernetes,redis,mysql,postgres,nginx,git,github,gitlab,graphql,rabbitmq,aws,gcp&perline=12" />
+  <img src="https://skillicons.dev/icons?i=go,java,python,c,linux,docker,kubernetes,redis,mysql,postgres,nginx,git,github,gitlab,graphql,rabbitmq,aws,gcp,bash,django,flask,linkedin,md&perline=12" />
 </p>
 
 ---
