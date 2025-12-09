@@ -61,13 +61,13 @@
 <!-- ========================  ACHIEVEMENTS WALL  ========================== -->
 <!-- ======================================================================= -->
 
-<h2 align="center">🏆 Achievements & Developer Power-Ups</h2>
+<!-- <h2 align="center">🏆 Achievements & Developer Power-Ups</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=qixia1998&theme=onestar&no-frame=true&margin-w=12" />
 </p>
 
----
+--- -->
 
 <!-- ======================================================================= -->
 <!-- =============================  FOOTER  ================================= -->
